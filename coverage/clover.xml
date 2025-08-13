@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1755020697609" clover="3.2.0">
-  <project timestamp="1755020697609" name="All files">
+<coverage generated="1755059585630" clover="3.2.0">
+  <project timestamp="1755059585630" name="All files">
     <metrics statements="24" coveredstatements="10" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1" elements="30" coveredelements="15" complexity="0" loc="24" ncloc="24" packages="1" files="1" classes="1"/>
     <file name="task2.js" path="E:\cv\blueoc\BlueOC-test\Task2\task2.js">
       <metrics statements="24" coveredstatements="10" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
