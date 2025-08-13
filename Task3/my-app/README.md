@@ -1,4 +1,4 @@
-Run "npm install" then "npm run dev" to see the web
+Run ```npm install``` then ```npm run dev``` to see the web
 
 # vite-template-redux
 

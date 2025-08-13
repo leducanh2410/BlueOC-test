@@ -29,16 +29,9 @@ export const postsApiSlice = createApi({
             ]
           : [{ type: "Posts", id: "LIST" }],
     }),
-    createPost: build.mutation<Post, CreatePostRequest>({
-      query: (post) => ({
-        url: "/posts",
-        method: "POST",
-        body: post,
-      }),
-      invalidatesTags: [{ type: "Posts", id: "LIST" }],
-    }),
+  
   }),
 })
 
 // Export hooks for usage in components
-export const { useGetPostsQuery, useCreatePostMutation } = postsApiSlice
+export const { useGetPostsQuery } = postsApiSlice

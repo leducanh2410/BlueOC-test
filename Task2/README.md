@@ -1,1 +1,1 @@
-Run npm test -- Task2/task2.test.js in terminal to run unit test
+Run ```npm test -- Task2/task2.test.js``` in terminal to run unit test
